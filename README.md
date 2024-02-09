@@ -64,3 +64,40 @@ The ongoing course "HTML & CSS 101: Introduction to HTML" has been an insightful
 Engaging in practical activities and examples has deepened my understanding and allowed me to apply theoretical concepts to real-world scenarios. This report reflects on key takeaways and highlights the effectiveness of learning activities, acknowledging progress made.
 
 As the course continues, I express gratitude for ongoing support and look forward to further collaboration in mastering these foundational skills. Thank you for being part of this exploration into the world of web development, and I'm excited about the growth and learning ahead.
+
+**Week Two Report: HTML & CSS 101 Mastery Journey**
+
+As we embark on the second week of our HTML & CSS 101 course, our exploration into the intricacies of web development has been nothing short of enlightening. The week has been dedicated to delving deeper into HTML, focusing on various aspects that form the backbone of web content creation. Our journey has covered a spectrum of topics, from handling graphics and media to understanding the significance of semantic HTML elements and the integration of external resources.
+
+**HTML Working with Graphics and Images (Completed):**
+
+Explored the <img> tag to embed images in HTML documents.
+Learned about attributes like src, alt, width, and height for image control.
+Explored image formats (JPEG, PNG, GIF) and when to use each.
+Discussed responsive images and the use of the srcset attribute.
+
+**HTML Working with Media (Completed):**
+
+Studied the <audio> and <video> tags for embedding media content.
+Explored attributes such as controls, autoplay, loop, and preload.
+Understood the importance of providing alternative content for better accessibility.
+
+**HTML Content Identification (Completed):**
+Discussed semantic HTML elements like <header>, <nav>, <article>, <section>, <footer>, and <aside>.
+Learned the significance of using semantic tags for accessibility, SEO, and document structure.
+
+**HTML Integration (Completed):**
+Explored techniques for integrating HTML with external resources, such as stylesheets and scripts.
+Learned about the <link> tag for linking stylesheets and the <script> tag for incorporating JavaScript.
+
+**HTML Working with Forms and Interactive Elements (Completed):**
+Covered the <form> tag for creating forms and various form elements (<input>, <select>, <textarea>).
+Learned about form attributes like action, method, and form validation.
+Explored interactive elements like buttons and checkboxes.
+
+**Organizing Tabular Information in HTML:**
+Currently in progress.
+Planning to cover the <table> element and its related tags (<tr>, <th>, <td>).
+Will explore attributes for controlling table structure, such as colspan and rowspan.
+
+As we draw the curtains on the second week of our HTML & CSS 101 journey, the landscape of web development has become more familiar, and our toolkit for crafting compelling online content has expanded. Throughout this week, we embarked on a comprehensive exploration of HTML, unraveling its capabilities in handling graphics, media, semantic content, integration with external resources, and the creation of interactive forms.
